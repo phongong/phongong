@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on getting my Masters at Syracuse University in the Applied Data Science program.
+
 <!--
 **phongong/phongong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
