@@ -1,6 +1,7 @@
-### Hi there 👋
-
-🔭 I’m currently working on getting my Masters at Syracuse University in the Applied Data Science program.
+Strategic AI Solutions Architect & Data Scientist with a dual background in Applied Data Science (MS) and 
+Biochemistry (BS). Expert in engineering autonomous data ecosystems and Agentic AI workflows that bridge the 
+gap between complex, specialized datasets and scalable automation. Proven track record of reducing manual 
+intervention by 80%+ through the deployment of self-healing pipelines and human-in-the-loop (HITL) frameworks.
 
 <!--
 **phongong/phongong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
